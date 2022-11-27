@@ -8,4 +8,4 @@ To see an electric filed lines, the user have to set some charges in space. Ther
 
 A general note: Either the user will put positive, negative or test charge. The charge initial position will always be in the ceneter of the screen and to change the charge location the user have to click on the specific charge, move the mouse to the new location and press enter to release the charge there.
 
-Enjoy discovering the electro-static systems electric filds!
+Enjoy discovering the electro-static systems electric fields!
