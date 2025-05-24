@@ -11,6 +11,7 @@ Charg movingCharg = null;
 
 void setup() {
   size(1250, 800);
+  size(1000 ,1000, P2D);
   filed = getVecFiled(20, (int)(height/delta), (int)(width/delta));
   hekpingCharg = new Charg(0,new PVector(0,0));
 }
